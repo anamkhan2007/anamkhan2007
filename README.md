@@ -1,27 +1,30 @@
-Hi, I'm Anam Khan 👋
-Frontend Developer | ASP.NET | Tailwind CSS
-Email • LinkedIn • Portfolio
+# Hi, I'm Anam Khan 👋
+### Frontend Developer | ASP.NET Core | Tailwind CSS
 
-About Me 🙋‍♀️
-🌍 I'm from Karachi, Pakistan
-🎓 Self-taught Frontend Developer
-💻 I build beautiful, responsive websites
-🚀 Currently learning ASP.NET Core & C#
-📫 Reach me at anamsaeed2007@gmail.com
-My Skills 🛠️
-Frontend: HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • Tailwind CSS
+📧 anamsaeed2007@gmail.com | 🔗 [Portfolio](https://anam-portfoliio.netlify.app) | 💼 [LinkedIn](https://www.linkedin.com/in/anam-khan-316b7135b)
 
-Backend: ASP.NET • C#
+---
 
-Database: MySQL • MongoDB
+## About Me 🙋‍♀️
+- 🌍 From Karachi, Pakistan
+- 🎓 Self-taught Frontend Developer
+- 💻 I build beautiful, responsive websites
+- 🚀 Currently learning ASP.NET Core & C#
 
-Tools: Git • GitHub • VS Code • Figma • Netlify
+## My Skills 🛠️
+**Frontend:** HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • Tailwind CSS
 
-AI: ChatGPT • AI Tools • AI Integration
+**Backend:** ASP.NET Core MVC • C# • Entity Framework
 
-My Projects 🚀
-Project	Description	Tech	Live
-EDUVERSE	University Management System (12K+ students, 48 majors)	ASP.NET Core, C#, SQL Server, EF Core	Live
-Anamora Cafe	Cafe website with animations	HTML, CSS, JavaScript	Live
-Pakistan Recipe Finder	24+ authentic recipes from 4 provinces	HTML, CSS, JavaScript	Live
-My Portfolio	Hand-coded portfolio with canvas particles	HTML, Tailwind, Canvas	Live
+**Database:** SQL Server • MySQL • MongoDB
+
+**Tools:** Git • GitHub • VS Code • Figma • Netlify
+
+## My Projects 🚀
+| Project | Description | Tech | Link |
+
+| EDUVERSE | University Management System | ASP.NET Core, C#, SQL Server | [Live](https://eduverse-university.netlify.app) |
+| Anamora Cafe | Cafe Website | HTML, CSS, JavaScript | [Live](https://anamora-cafe.netlify.app/) |
+| Pakistan Recipe Finder | 24+ Pakistani Recipes | HTML, CSS, JavaScript | [Live](https://reciipe-finder.netlify.app/) |
+| Marie Curie Biography | 3D Animated Tribute | HTML, CSS 3D, jQuery | [Live](https://marie-curiee.netlify.app) |
+| Al Saudia Ajwa | E-commerce Website | HTML, CSS, Bootstrap | [Live](https://alsaudia-ajwa.netlify.app) |
