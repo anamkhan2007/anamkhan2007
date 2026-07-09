@@ -7,9 +7,9 @@
 
 ## About Me 🙋‍♀️
 - 🌍 From Karachi, Pakistan
-- 🎓 Self-taught Frontend Developer
-- 💻 I build beautiful, responsive websites
-- 🚀 Currently learning ASP.NET Core & C#
+- 🎓 Pursuing Advanced Diploma in Software Engineering (ADSE) at Aptech Learning, Karachi — 4th Semester (2nd Year)
+- 💻 Specializing in Web Development, ASP.NET Core MVC & Database Management
+- 🚀 Building real-world projects with HTML, CSS, JavaScript, Tailwind & C#
 
 ## My Skills 🛠️
 **Frontend:** HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • Tailwind CSS
