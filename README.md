@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Anam Khan 👋
+Frontend Developer | ASP.NET | Tailwind CSS
+Email • LinkedIn • Portfolio
 
-<!--
-**anamkhan2007/anamkhan2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 🙋‍♀️
+🌍 I'm from Karachi, Pakistan
+🎓 Self-taught Frontend Developer
+💻 I build beautiful, responsive websites
+🚀 Currently learning ASP.NET Core & C#
+📫 Reach me at anamsaeed2007@gmail.com
+My Skills 🛠️
+Frontend: HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • Tailwind CSS
 
-Here are some ideas to get you started:
+Backend: ASP.NET • C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database: MySQL • MongoDB
+
+Tools: Git • GitHub • VS Code • Figma • Netlify
+
+AI: ChatGPT • AI Tools • AI Integration
+
+My Projects 🚀
+Project	Description	Tech	Live
+EDUVERSE	University Management System (12K+ students, 48 majors)	ASP.NET Core, C#, SQL Server, EF Core	Live
+Anamora Cafe	Cafe website with animations	HTML, CSS, JavaScript	Live
+Pakistan Recipe Finder	24+ authentic recipes from 4 provinces	HTML, CSS, JavaScript	Live
+My Portfolio	Hand-coded portfolio with canvas particles	HTML, Tailwind, Canvas	Live
